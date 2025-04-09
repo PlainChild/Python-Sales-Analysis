@@ -59,6 +59,6 @@ Companies involved in online sales or running e-commerce websites aim to maximiz
         plt.show()
 ![Image](https://github.com/user-attachments/assets/de86cb9b-7072-449d-a42e-a1a2d5900b04)
 ## Insights & Findings
-The bar chart shows that sales usually peak during late night hours. It is advisable to hold a product promotion during that time specifically.
+The line chart shows that sales are low in the morning, and starting to peak at high noon. And also, it is usually peak during late night hours. Therefore, it is advisable to hold a product promotion during that time specifically.
 
 ### Python Script: https://colab.research.google.com/drive/1MnMM1H1ICRdwwdexsXJ5aXz9PR1gHqDU?usp=sharing
