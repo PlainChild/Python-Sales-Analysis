@@ -61,4 +61,3 @@ Companies involved in online sales or running e-commerce websites aim to maximiz
 ## Insights & Findings
 The line chart shows that sales are low in the morning, and starting to peak at high noon. And also, it is usually peak during late night hours. Therefore, it is advisable to hold a product promotion during that time specifically.
 
-### Python Script: https://colab.research.google.com/drive/1MnMM1H1ICRdwwdexsXJ5aXz9PR1gHqDU?usp=sharing
